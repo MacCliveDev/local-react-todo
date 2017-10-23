@@ -27,3 +27,4 @@ Compile
  
 ```
 npm run compile
+```
