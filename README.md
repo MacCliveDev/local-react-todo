@@ -1,4 +1,4 @@
-My Project
+### react-from-scratch ###
 ---
  
 Welcome.
