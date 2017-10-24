@@ -1,4 +1,4 @@
-react-from-scratch
+local-react-todo
 ---
  
 Welcome.
